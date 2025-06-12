@@ -1,0 +1,3 @@
+LANGSMITH_API_KEY = "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"
+LANGSMITH_PROJECT = "my-langgraph-project"
+LANGSMITH_TAGS = ["development"]

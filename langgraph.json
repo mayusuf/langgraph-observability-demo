@@ -1,0 +1,15 @@
+{
+  "graphs": {
+    "my_graph": "graph:builder"
+  },
+  "dependencies": ["graph.py", "langgraph_config.py"],
+  "observability": {
+    "provider": "langsmith",
+    "config": {
+      "enabled": true,
+      "trace": true,
+      "project": "my-langgraph-project",
+      "tags": ["development"]
+    }
+  }
+}
