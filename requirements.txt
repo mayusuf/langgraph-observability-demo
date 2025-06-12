@@ -1,5 +1,4 @@
 langgraph==0.4.8  # Core LangGraph package
-langsmith==0.3.45  # Stable version that works with LangChain
-langchain==0.3.25  # Stable version that works with LangSmith 0.3.45
+langsmith==0.0.87  # Stable version that works with LangChain
+langchain==0.0.200  # Stable version that works with LangSmith 0.0.87
 python-dotenv==1.0.0  # For loading environment variables
-pydantic==2.4.2  # Compatible version for all packages
